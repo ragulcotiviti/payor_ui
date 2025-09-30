@@ -1,0 +1,17 @@
+__pycache__/
+.venv/
+.vscode/
+env/
+venv/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+*.sqlite3
+*.log
+__MACOSX/
+*.DS_Store
+requirements.txt
